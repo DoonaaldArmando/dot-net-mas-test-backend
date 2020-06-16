@@ -1,0 +1,12 @@
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/bin/Debug/netcoreapp3.1/RequestApi.deps.json
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/bin/Debug/netcoreapp3.1/RequestApi.dll
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/bin/Debug/netcoreapp3.1/RequestApi.pdb
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/bin/Debug/netcoreapp3.1/Models.dll
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/bin/Debug/netcoreapp3.1/Models.pdb
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.csprojAssemblyReference.cache
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.csproj.CoreCompileInputs.cache
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.AssemblyInfoInputs.cache
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.AssemblyInfo.cs
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.csproj.CopyComplete
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.dll
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/obj/Debug/netcoreapp3.1/RequestApi.pdb

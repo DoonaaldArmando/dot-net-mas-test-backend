@@ -1,0 +1,9 @@
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/bin/Debug/netcoreapp3.1/Models.deps.json
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/bin/Debug/netcoreapp3.1/Models.dll
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/bin/Debug/netcoreapp3.1/Models.pdb
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/obj/Debug/netcoreapp3.1/Models.csproj.CoreCompileInputs.cache
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfoInputs.cache
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfo.cs
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/obj/Debug/netcoreapp3.1/Models.dll
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/obj/Debug/netcoreapp3.1/Models.pdb
+/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Domain/Models/obj/Debug/netcoreapp3.1/Models.csprojAssemblyReference.cache

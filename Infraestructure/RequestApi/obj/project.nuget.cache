@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXKyE65biNa/tvxgukEMQ11vBdteZr4C7njwjLCKkJIM3/CPGFUNFg0XhB1GTz51mGOswD2KscPSzbEono4MtA==",
+  "success": true,
+  "projectFilePath": "/home/darmando/Workspace/Dot-Net-Core/test-mas-global/Infraestructure/RequestApi/RequestApi.csproj",
+  "expectedPackageFiles": [
+    "/home/darmando/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
